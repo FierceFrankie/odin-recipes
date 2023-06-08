@@ -33,3 +33,8 @@ ul {
     color: purple;
 }
 
+.recipe-card h2,
+.recipe-card a {
+    text-transform: uppercase;
+}
+
